@@ -1,12 +1,12 @@
 # 🖲 CRUD com consumo de API Rest
 Eu criei uma aplicação simples com CRUD para consumo de API com as seguintes rotas:
 
-Create a user;
-List existing users;
-Edit a user;
-Delete a user.
+- Create a user;
+- List existing users;
+- Edit a user;
+- Delete a user.
 
-# 📀 Tecnologies
+# 📀 Tecnologias
 
 Foi utilizada as seguintes tecnologias :
 

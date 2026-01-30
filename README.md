@@ -49,8 +49,7 @@ npx prisma generate
 
 E inicie o servidor e o Prisma:
 
-npm run dev
-# O servidor rodará por padrão na porta 3000
+npm run dev _(O servidor rodará por padrão na porta 3000)_
 &&
 npx prisma studio (_Estou usando a versão 6.4.1_)
 
